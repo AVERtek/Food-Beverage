@@ -1,0 +1,11 @@
+Model Information:
+* title:	Day 10: Candy
+* source:	https://sketchfab.com/3d-models/day-10-candy-9b5cf3b735c34cbca29d47bb1bb5808f
+* author:	defnotdan (https://sketchfab.com/defnotdan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Day 10: Candy" (https://sketchfab.com/3d-models/day-10-candy-9b5cf3b735c34cbca29d47bb1bb5808f) by defnotdan (https://sketchfab.com/defnotdan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

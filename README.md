@@ -1,2 +1,2 @@
-# Food-Beverage
-Food and Beverage
+# Art Demo
+AR Art
